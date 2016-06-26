@@ -1,0 +1,21 @@
+{
+  "name": "cheki",
+  "version": "0.0.0",
+  "description": "Isomorphic JavaScript web app for used and new cars",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamscott082/cheki-search"
+  },
+  "keywords": [
+    "new",
+    "cars",
+    "used",
+    "cars"
+  ],
+  "author": "Will Scott",
+  "license": "MIT"
+}
