@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47c5a97a-9828-4911-94d2-42785a541f39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HomeController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/cookie.client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/index.client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/reply.client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/options.client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/options.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="cheki-search.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,6 +56,11 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="FORCE_PUSH_ALLOWED" value="true" />
   </component>
   <component name="IdeDocumentHistory">
@@ -491,6 +479,14 @@
       <workItem from="1465576393592" duration="4460000" />
       <workItem from="1465585542966" duration="334000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished Book">
+      <created>1467288811317</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467288811317</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -534,6 +530,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="Finished Book" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Book" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
